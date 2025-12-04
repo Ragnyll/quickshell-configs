@@ -4,7 +4,7 @@ My dope setup for quickshell.
 
 ## TODO:
 
-- [ ]Clock
+- [ ] Clock
 - [ ] Hyperland workspace
     - [ ] Workspace Selector
     - [ ] Workspace Selector with Preview
